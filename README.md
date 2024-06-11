@@ -8,6 +8,16 @@ A method to generate visual scene graphs conditioned on images paired with itera
 
 # TODO
 - [ ] Upload code
+- [ ] Link dataset download. 
+
+# Dataset
+Dataset repository for generation can be found [here](https://github.com/jvoas655/VG-SPICE/).
+> [!NOTE]
+> Will require obtaining the [Visual Genome](https://homes.cs.washington.edu/~ranjay/visualgenome/index.html) dataset to generate. 
+
+Pregenerated dataset and cleaned VG-SPICE-C challenge test subset, as utilized in this paper, can be downloaded here. 
+
+CHiME5 dataset for noise augmentation can be downloaded [here](https://www.chimechallenge.org/challenges/chime5/index)
 
 # Citation
 If our code, dataset, or methology is useful please consider citing out work.
